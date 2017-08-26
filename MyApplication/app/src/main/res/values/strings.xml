@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Voks Support</string>
+    <string name="signup">Sign Up</string>
+    <string name="full_name">Full Name</string>
+    <string name="email">Email</string>
+    <string name="company_name">Company Name</string>
+    <string name="mobile">Mobile Number</string>
+    <string name="error_field_required">Required</string>
+    <string name="error_invalid_email">Invalid Email</string>
+    <string name="error_invalid_password">Invalid Mobile Number</string>
+    <string name="chat">Chat,Ask Us</string>
+    <string name="conversation">Conversation List</string>
+    <string name="logout">LogOut</string>
+    <string name="facebook">Login</string>
+    <string name="confirmPassword">Confirm Password</string>
+    <string name="password">Password</string>
+
+    <string name="intercom_gcm_sender_id">607121151689</string>
+
+</resources>
